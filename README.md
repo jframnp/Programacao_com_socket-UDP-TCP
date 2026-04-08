@@ -7,7 +7,7 @@
             Gabriel Messora RA:
             Luis Felipe RA:
 
-#Questão 3
+# Questão 3
 ## Descrição do Projeto
 Aplicação de **controle remoto de objeto** usando socket **TCP** e biblioteca **Pygame**.  
 
