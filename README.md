@@ -3,9 +3,11 @@
 **Atividade: Análise de Programação de Socket UDP e TCP**  
 **Disciplina:** Redes de Computadores  
 **Professor:** Dr. Bruno da Silva Rodrigues  
-**Aluno:** João  
-**Questão:** 3 (Desafio – Outras interações)
+**Alunos:** João Francisco RA:10443666
+            Gabriel Messora RA:
+            Luis Felipe RA:
 
+#Questão 3
 ## Descrição do Projeto
 Aplicação de **controle remoto de objeto** usando socket **TCP** e biblioteca **Pygame**.  
 
