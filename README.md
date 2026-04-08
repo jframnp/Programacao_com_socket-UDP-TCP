@@ -12,16 +12,12 @@
 Aplicação de **controle remoto de objeto** usando socket **TCP** e biblioteca **Pygame**.  
 
 O servidor abre uma janela gráfica (Pygame) com um quadrado azul.  
-O cliente (console) envia comandos em tempo real (WASD) para mover o quadrado.  
+O cliente (console) envia comandos (WASD) para mover o quadrado.  
 Foi utilizada **thread** para separar a recepção de comandos do loop gráfico do Pygame.
 
 **Por que TCP?**  
 Garante entrega confiável e na ordem correta dos comandos (diferente do UDP).
 
-**Atende 100% aos critérios do enunciado:**
-- Não é transferência simples de arquivos
-- Não é jogo da velha
-- Não é quiz
 - Usa Pygame + socket + thread
 
 ## Como Executar
@@ -35,3 +31,6 @@ Garante entrega confiável e na ordem correta dos comandos (diferente do UDP).
 2. No primeiro terminal execute o servidor:
    ```bash
    python ServerRemoteControl.py
+
+### Link video no Youtube Questão 3
+Link: https://youtu.be/zECnosptRZc
